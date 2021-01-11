@@ -1,0 +1,21 @@
+{
+    "name": "kdianaputri04/yii2-alert",
+    "description": "Widget twitter boostrap for Yii framework 2.0",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","alert"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hafid Mukhlasin",
+            "email": "hafidmukhlasin@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "kdianaputri04\\alert\\": ""
+        }
+    }
+}
